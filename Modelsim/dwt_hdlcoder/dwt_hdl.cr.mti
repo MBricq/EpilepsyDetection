@@ -1,0 +1,252 @@
+C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter1_block
+-- Compiling architecture rtl of Discrete_FIR_Filter1_block
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter_block1
+-- Compiling architecture rtl of Discrete_FIR_Filter_block1
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter1_block1
+-- Compiling architecture rtl of Discrete_FIR_Filter1_block1
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter_block2
+-- Compiling architecture rtl of Discrete_FIR_Filter_block2
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_textio
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Loading package alpha4_level_dwt_tb_pkg
+-- Compiling entity alpha4_level_dwt_tb
+-- Compiling architecture rtl of alpha4_level_dwt_tb
+-- Loading entity alpha4_level_dwt
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter1_block2
+-- Compiling architecture rtl of Discrete_FIR_Filter1_block2
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter_block3
+-- Compiling architecture rtl of Discrete_FIR_Filter_block3
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha1_level_dwt1
+-- Compiling architecture rtl of alpha1_level_dwt1
+-- Loading entity Discrete_FIR_Filter_block
+-- Loading entity Discrete_FIR_Filter1_block
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_tb_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_tb_pkg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling package alpha4_level_dwt_tb_pkg
+-- Compiling package body alpha4_level_dwt_tb_pkg
+-- Loading package alpha4_level_dwt_tb_pkg
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_tc.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_tc.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alpha4_level_dwt_tc
+-- Compiling architecture rtl of alpha4_level_dwt_tc
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt2.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha1_level_dwt2
+-- Compiling architecture rtl of alpha1_level_dwt2
+-- Loading entity Discrete_FIR_Filter_block1
+-- Loading entity Discrete_FIR_Filter1_block1
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter1_block3
+-- Compiling architecture rtl of Discrete_FIR_Filter1_block3
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter_block4
+-- Compiling architecture rtl of Discrete_FIR_Filter_block4
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt3.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha1_level_dwt3
+-- Compiling architecture rtl of alpha1_level_dwt3
+-- Loading entity Discrete_FIR_Filter_block2
+-- Loading entity Discrete_FIR_Filter1_block2
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1_block4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter1_block4
+-- Compiling architecture rtl of Discrete_FIR_Filter1_block4
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt4.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha1_level_dwt4
+-- Compiling architecture rtl of alpha1_level_dwt4
+-- Loading entity Discrete_FIR_Filter_block3
+-- Loading entity Discrete_FIR_Filter1_block3
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt5.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt5.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha1_level_dwt5
+-- Compiling architecture rtl of alpha1_level_dwt5
+-- Loading entity Discrete_FIR_Filter_block4
+-- Loading entity Discrete_FIR_Filter1_block4
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter1.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter1
+-- Compiling architecture rtl of Discrete_FIR_Filter1
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter_block.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter_block
+-- Compiling architecture rtl of Discrete_FIR_Filter_block
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha1_level_dwt.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha1_level_dwt
+-- Compiling architecture rtl of alpha1_level_dwt
+-- Loading entity Discrete_FIR_Filter
+-- Loading entity Discrete_FIR_Filter1
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity alpha4_level_dwt
+-- Compiling architecture rtl of alpha4_level_dwt
+-- Loading entity alpha4_level_dwt_tc
+-- Loading entity alpha1_level_dwt
+-- Loading entity alpha1_level_dwt1
+-- Loading entity alpha1_level_dwt2
+-- Loading entity alpha1_level_dwt3
+-- Loading entity alpha1_level_dwt4
+-- Loading entity alpha1_level_dwt5
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_pkg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/alpha4_level_dwt_pkg.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling package alpha4_level_dwt_pkg
+
+} {} {}} C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/local_adm/Documents/EpilepsyDetection/Modelsim/dwt_hdlcoder/Discrete_FIR_Filter.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package alpha4_level_dwt_pkg
+-- Compiling entity Discrete_FIR_Filter
+-- Compiling architecture rtl of Discrete_FIR_Filter
+
+} {} {}}

@@ -50,3 +50,27 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# MacOS
+.DS_Store
+
+# Eclipse Project
+.cproject
+.project
+*.xml
+create-this-app
+*.objdump
+*_bsp/
+
+# Quartus project
+*db/
+*.tcl
+*system/
+*.qsys
+*.qpf
+*.qsf
+*.qws
+
+# MATLAB
+*.do
+*hdlsrc/

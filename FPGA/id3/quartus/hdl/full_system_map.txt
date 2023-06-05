@@ -1,0 +1,4 @@
+ --> full_system_pkg
+full_system_nios_id3/full_system/Discrete FIR Filter --> Discrete_FIR_Filter
+full_system_tc --> full_system_tc
+full_system_nios_id3/full_system --> full_system

@@ -1,0 +1,7 @@
+# This directory is where the Nios II C code is to test the FPGA
+
+The directory `application` should manually created. Then, after the Quartus project has been compiled and Eclipse is launched, create a new project by clicking `File` -> `New` -> `Nios II Application and BSP from Template`. Select the `Hello World` template and the `system.sopcinfo` file in the `quartus` folder. Select the `application` folder as the project directory and click `Finish`. The project should be created and the BSP should be generated.
+
+You can copy the code from the `main.c` of this project into the `helloworld.c` of the new. Create the files `fifo.c` and `fifo.h` and again, copy code from this project into them. The code in the `main.c` file should be modified as the comments in the file explain. Then the project can be compiled and run on the FPGA. To do so, use the debugger, create a new debug configuration by clicking `Run` -> `Debug Configurations...`. In the `Target Connection`, I recommend ticking the options `Ignore mismatched system timestamp` and `Ignore mismatched system ID`.
+
+Once you run the program, the LEDs should turn on, at this moment, you can launch the MATLAB script `MATLAB/rs232_com.m` after selecting the correct COM port, patient and seizure. MATLAB will show the progress (it should take around the same time as the seizure actually lasted, so less than 10min, I did not manage to make it faster). Once the script is finished, MATLAB plot the results and they can be saved if wanted.

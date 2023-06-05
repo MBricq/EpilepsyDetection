@@ -1,0 +1,12 @@
+ --> full_system_pkg
+full_system_nios_id7/full_system/1_level_dwt/Discrete FIR Filter1 --> Discrete_FIR_Filter1
+full_system_nios_id7/full_system/1_level_dwt --> alpha1_level_dwt
+full_system_nios_id7/full_system/1_level_dwt1/Discrete FIR Filter --> Discrete_FIR_Filter
+full_system_nios_id7/full_system/1_level_dwt1/Discrete FIR Filter1 --> Discrete_FIR_Filter1_block
+full_system_nios_id7/full_system/1_level_dwt1 --> alpha1_level_dwt1
+full_system_nios_id7/full_system/1_level_dwt2/Discrete FIR Filter --> Discrete_FIR_Filter_block
+full_system_nios_id7/full_system/1_level_dwt2 --> alpha1_level_dwt2
+full_system_nios_id7/full_system/predictor10 --> predictor10
+full_system_nios_id7/full_system/predictor15 --> predictor15
+full_system_tc --> full_system_tc
+full_system_nios_id7/full_system --> full_system
